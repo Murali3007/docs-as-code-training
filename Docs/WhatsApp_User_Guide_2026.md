@@ -2,17 +2,16 @@
 
 **WhatsApp Mobile Application**
 
-Version 2026
+Version 1.0
 
 For Android and iOS
 
 Prepared by
 
-### Prepared by Teckas Technologies
+### Written by Murali Kathirmani
 
 **August 2026**
 
-**Document Classification:** Public
 
 # 1. Introduction
 This guide walks you through WhatsApp, the mobile messaging application used by over two billion people worldwide. WhatsApp lets you send text messages, make voice and video calls, share photos and documents, and stay connected with family, friends, and colleagues. All of this works over your internet connection (Wi-Fi or mobile data), so there are no per-message charges from WhatsApp itself.
@@ -782,4 +781,4 @@ You can also visit the WhatsApp FAQ on the web at faq.whatsapp.com for articles 
 
 *End of document*
 
-WhatsApp User Guide | Version 2026 | Prepared by Teckas Technologies
+WhatsApp User Guide | Version 2026 | Prepared by Murali Kathirmani
