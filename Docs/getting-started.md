@@ -18,7 +18,7 @@ def fibonacci(n):
     return
 ```
 
-Is this a valid change that has to be made.
+Is this a valid change that has to be made. Addressing comments.
 
 ```javascriptdsv 
 function greet(name) {
