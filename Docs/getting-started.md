@@ -17,10 +17,8 @@ def fibonacci(n):
         a, b = b, a + b
     return
 ```
-vfdfvfdv
-vfdvfdvfd
-Is this a valid change
-vfvfddvf
+
+Is this a valid change that has to be made. Addressing comments.
 
 ```javascriptdsv 
 function greet(name) {
