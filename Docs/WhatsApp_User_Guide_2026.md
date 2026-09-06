@@ -13,6 +13,30 @@ Prepared by
 **August 2026**
 
 
+## Table of Contents
+
+- [1. Introduction](#1-introduction)
+- [2. Installing WhatsApp](#2-installing-whatsapp)
+- [3. Setting up your account](#3-setting-up-your-account)
+- [4. The WhatsApp interface](#4-the-whatsapp-interface)
+- [5. Sending messages](#5-sending-messages)
+- [6. Sharing photos, videos, and documents](#6-sharing-photos-videos-and-documents)
+- [7. Making voice and video calls](#7-making-voice-and-video-calls)
+- [8. Group chats](#8-group-chats)
+- [9. Status updates](#9-status-updates)
+- [10. Privacy and security settings](#10-privacy-and-security-settings)
+- [11. WhatsApp Channels](#11-whatsapp-channels)
+- [12. Communities](#12-communities)
+- [13. WhatsApp Web and linked devices](#13-whatsapp-web-and-linked-devices)
+- [14. Managing storage and data](#14-managing-storage-and-data)
+- [15. Backing up your chats](#15-backing-up-your-chats)
+- [16. New features in 2026](#16-new-features-in-2026)
+- [17. Troubleshooting common issues](#17-troubleshooting-common-issues)
+- [18. Glossary](#18-glossary)
+- [19. Quick reference card](#19-quick-reference-card)
+- [20. Getting help](#20-getting-help)
+
+
 # 1. Introduction
 This guide walks you through WhatsApp, the mobile messaging application used by over two billion people worldwide. WhatsApp lets you send text messages, make voice and video calls, share photos and documents, and stay connected with family, friends, and colleagues. All of this works over your internet connection (Wi-Fi or mobile data), so there are no per-message charges from WhatsApp itself.
 
