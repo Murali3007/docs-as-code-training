@@ -1,53 +1,28 @@
 Tap To Pay -- User Guide
 
 
-# Content {#content .TOC-Heading}
+## Table of Contents
 
-[Abbreviations and Acronyms
-[2](#abbreviations-and-acronyms)](#abbreviations-and-acronyms)
-
-[Introduction & Overview
-[3](#introduction-overview)](#introduction-overview)
-
-[Objective & Scope [3](#objective-scope)](#objective-scope)
-
-[Prerequisites [3](#prerequisites)](#prerequisites)
-
-[ISO Requirements [4](#iso-requirements)](#iso-requirements)
-
-[Merchant Requirements
-[4](#merchant-requirements)](#merchant-requirements)
-
-[Device Requirements [4](#device-requirements)](#device-requirements)
-
-[Application Requirements
-[4](#application-requirements)](#application-requirements)
-
-[ISO Tap to Pay Notification
-[4](#iso-tap-to-pay-notification)](#iso-tap-to-pay-notification)
-
-[Enabling Tap to Pay for Merchants
-[5](#enabling-tap-to-pay-for-merchants)](#enabling-tap-to-pay-for-merchants)
-
-[Automated Email Notifications
-[7](#automated-email-notifications)](#automated-email-notifications)
-
-[Merchant Starter Email
-[7](#merchant-starter-email)](#merchant-starter-email)
-
-[Performing a Tap to Pay Transaction
-[9](#performing-a-tap-to-pay-transaction)](#performing-a-tap-to-pay-transaction)
-
-[PIN Validation [14](#pin-validation)](#pin-validation)
-
-[Settlement Workflow [14](#settlement-workflow)](#settlement-workflow)
-
-[Tap to Pay Demo [15](#tap-to-pay-demo)](#tap-to-pay-demo)
-
-[Conclusion & contact details
-[16](#conclusion-contact-details)](#conclusion-contact-details)
-
-[Version history [16](#version-history)](#version-history)
+- [Abbreviations and Acronyms](#abbreviations-and-acronyms)
+- [Introduction \& Overview](#introduction--overview)
+- [Objective \& Scope](#objective--scope)
+- [Prerequisites](#prerequisites)
+  - [ISO Requirements](#iso-requirements)
+  - [Merchant Requirements](#merchant-requirements)
+  - [Device Requirements](#device-requirements)
+  - [Application Requirements](#application-requirements)
+- [ISO Tap to Pay Notification](#iso-tap-to-pay-notification)
+- [Enabling Tap to Pay for Merchants](#enabling-tap-to-pay-for-merchants)
+- [Automated Email Notifications](#automated-email-notifications)
+  - [Merchant Starter Email](#merchant-starter-email)
+- [Application requirement for Android Tap to Pay](#application-requirement-for-android-tap-to-pay)
+  - [Install the Tap to Pay Ready Application Before a Transaction](#install-the-tap-to-pay-ready-application-before-a-transaction)
+  - [In-App Notification to Install the Tap to Pay Ready Application](#in-app-notification-to-install-the-tap-to-pay-ready-application)
+- [Performing a Tap to Pay Transaction](#performing-a-tap-to-pay-transaction)
+- [PIN Validation](#pin-validation)
+- [Settlement Workflow](#settlement-workflow)
+- [Tap to Pay Demo](#tap-to-pay-demo)
+- [Conclusion \& contact details](#conclusion--contact-details)
 
 #  Abbreviations and Acronyms 
 
