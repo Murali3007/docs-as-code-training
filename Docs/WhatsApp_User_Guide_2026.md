@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # WhatsApp Mobile Application — User Guide
 
 **WhatsApp Mobile Application**

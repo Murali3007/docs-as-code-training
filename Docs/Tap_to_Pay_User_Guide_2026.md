@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 Tap To Pay -- User Guide
 
 
@@ -6,7 +10,7 @@ Tap To Pay -- User Guide
 - [Abbreviations and Acronyms](#abbreviations-and-acronyms)
 - [Introduction \& Overview](#introduction--overview)
 - [Objective \& Scope](#objective--scope)
-- [Prerequisites](#prerequisites)
+- [Prerequisites ](#prerequisites)
   - [ISO Requirements](#iso-requirements)
   - [Merchant Requirements](#merchant-requirements)
   - [Device Requirements](#device-requirements)
@@ -17,6 +21,7 @@ Tap To Pay -- User Guide
   - [Merchant Starter Email](#merchant-starter-email)
 - [Application requirement for Android Tap to Pay](#application-requirement-for-android-tap-to-pay)
   - [Install the Tap to Pay Ready Application Before a Transaction](#install-the-tap-to-pay-ready-application-before-a-transaction)
+  - [](#)
   - [In-App Notification to Install the Tap to Pay Ready Application](#in-app-notification-to-install-the-tap-to-pay-ready-application)
 - [Performing a Tap to Pay Transaction](#performing-a-tap-to-pay-transaction)
 - [PIN Validation](#pin-validation)
